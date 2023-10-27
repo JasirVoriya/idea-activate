@@ -1,5 +1,5 @@
 -Xms128m
--Xmx1024m
+-Xmx4077m
 -XX:ReservedCodeCacheSize=512m
 -XX:+IgnoreUnrecognizedVMOptions
 -XX:+UseG1GC
